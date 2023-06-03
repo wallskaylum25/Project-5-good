@@ -1,0 +1,119 @@
+.grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  grid-template-rows: 1fr 1fr;
+  grid-gap: 20px;
+}
+
+.grid-item {
+  text-align: center;
+}
+
+h1 {
+  
+}
+
+h2 {
+  background-color: burlywood;
+  border: 2px solid red;
+  padding: 10px;
+  font-family: 'Roboto', sans-serif;
+}
+
+@keyframes example {
+  0%   {background-color: green;}
+  25%  {background-color: yellow;}
+  50%  {background-color: red;}
+  100% {background-color: burlywood;}
+}
+
+h2 {
+  background-color: burlywood;
+  animation-name: example;
+  animation-duration: 4s;
+}
+
+h3 {
+  background-color: burlywood;
+  animation-name: example;
+  animation-duration: 4s;
+}
+
+p {
+  background-color: rgb(250, 228, 228);
+  border: 2px round rgb(250, 228, 228);
+  text-indent: 10px
+}
+
+h3 {
+  background-color: burlywood;
+  border: 2px solid red;
+  padding: 10px;
+  font-family: 'Roboto', sans-serif;
+}
+
+body {
+  padding: 1%;
+  background-image:url() ;
+}
+
+
+img {
+  border-radius: 8px;
+}
+
+form {
+  background-color: rgb(250, 228, 228);
+  border: 2px solid;
+  border-width: 2px;
+}
+
+h1 {
+  text-align: center;
+  font-family: 'Courier New', Courier, monospace;
+}
+
+.wrapper {
+  width: min(100% - 2rem, 1200px);
+  margin-inline: auto;
+}
+
+.grid-container {
+  display: grid;
+  grid-template-areas: 
+    "header header header header header"
+    "aside-one main main main aside-two"
+    "aside-one main main main aside-two"
+    "footer footer footer footer footer"
+  ;
+  min-height: 80vh;
+  margin-top: 4rem;
+  gap: 0.5rem;
+}
+
+.grid-item {
+  font-size: 1.5rem;
+  background-color: brown;
+  padding: 1rem;
+}
+
+.header {
+  grid-area: header;
+}
+
+.main {
+  grid-area: main;
+}
+
+.aside-one {
+  grid-area: aside-one;
+}
+
+.aside-two {
+  grid-area: aside-two;
+}
+
+.footer {
+  grid-area: footer;
+}
+

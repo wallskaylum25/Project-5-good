@@ -1,0 +1,50 @@
+.grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  grid-template-rows: 1fr 1fr;
+  grid-gap: 20px;
+}
+
+.grid-item {
+  text-align: center;
+}
+
+h1 {
+  
+}
+
+h2 {
+  background-color: burlywood;
+  border: 2px solid red;
+  padding: 10px;
+  font-family: 'Roboto', sans-serif;
+}
+
+p {
+  background-color: rgb(250, 228, 228) ;
+  border: 2px round rgb(250, 228, 228);
+  text-indent: 10px
+}
+
+h3 {
+  background-color: burlywood;
+  border: 2px solid red;
+  padding: 10px;
+  font-family: 'Roboto', sans-serif;
+}
+
+body {
+  padding: 1%;
+  background-image:url() ;
+}
+
+
+img {
+  border-radius: 8px;
+}
+
+form {
+  background-color: rgb(250, 228, 228);
+  border: 2px solid;
+  border-width: 2px;
+}

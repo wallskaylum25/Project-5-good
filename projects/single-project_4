@@ -1,0 +1,167 @@
+<!DOCTYPE html>
+<html >
+<head>
+  <title>Kaylum's Page</title>
+  <link data-rh="true" rel="icon" type="image/png" sizes="32x32" 
+href="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/030932d3-8fd0-44d9-b238-639b2d366e55/d3g51r9-8905ea1e-fa89-48dd-bf6b-b4145b9260a7.png/v1/fill/w_500,h_526,q_80,strp/random_logo_concept_by_naraosga_d3g51r9-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NTI2IiwicGF0aCI6IlwvZlwvMDMwOTMyZDMtOGZkMC00NGQ5LWIyMzgtNjM5YjJkMzY2ZTU1XC9kM2c1MXI5LTg5MDVlYTFlLWZhODktNDhkZC1iZjZiLWI0MTQ1YjkyNjBhNy5wbmciLCJ3aWR0aCI6Ijw9NTAwIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.UsGuSz_Xc1mneAEfPoZJBNEWCz8CIvJu_FTYp8jKd34/favicon-32x32.png"/>
+  <link rel="stylesheet" href="style.css">
+  <meta name="My Website" content="This is my website - it contains links.">
+</head>
+
+<style>
+
+  body {  
+    background-image: url(nice wall.webp);
+    background-repeat:no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+     }
+  
+  h1 {color: black;
+  border-radius: 8px;
+  box-shadow: 5px 5px 5px black;
+  }
+
+  img {
+    width=100%
+  box-shadow: 5px 5px 5px black;
+  border-radius: 8px;
+}
+
+</style>
+
+  <body style="background-image:
+  url(https://images.unsplash.com/photo-1509114397022-ed747cca3f65?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=735&q=80)"
+  background-image="no-repeat">
+  
+  <header>
+  <h1>Welcome to My World</h1>
+    <img src="Another Me.JPG" width="">
+      <img src="link.logo.small.png" width="30px">  <a href="https://www.linkedin.com/feed/">Linkedin</a>
+<br>
+
+  <h1>Kaylum Walls</h1>
+<div>
+
+<section>
+  <h2>Introduction:</h2>
+    <p>To kick things off, I would like to welcome you to my website! I'm very
+          excited to share information about software developement and how my journey has given me the
+          knowledge and skills to be better at coding. By going through sections of this site, you'll have a better understanding
+          of what to expect when starting your journey into software developement, as well as personally getting to know me and what 
+          I've accomplished. Not only that, you'll be given a chance to fill out a form for an opportunity to learn more about Correlation One
+          and how they can assist you in gaining the skills of a software developer. If you find this introduction to be captivating,
+          lets continue on by first getting to know a little more about me. &#x1F913;
+      </p>
+</section>
+
+<section>
+  <h2>About Me:</h2>
+    <p>For the last 3 years I have worked Amazon Warehouse TPA1 and TPA4. I originally work for Stow Inbound but have done many other thing such as Amnesty, Decant, and Pack Singles.
+      As time went on I wanted to challenge myself and aim start to pursue a better career. Roughly around 6 months ago, I had grown an interest into software developement
+      from wanting to be more involved in the IT originally after doing some research. Through some time browsing throughout
+      <a href="https://hiring.amazon.com/#/">Amazon</a> Career Choice, I found that <a href="https://www.correlation-one.com/">
+      Correlation One</a> was offering the opportunity to provide the knowledge and skillset
+      to create code strings of my own to be more creative in the IT world.
+    </p>
+</section>
+
+<section>
+  <h2>Why Join Correlation One?</h2>
+    <center><img src="code.webp" width="180"></center>
+    <p>Correlation One is a great online program for someone who wants to learn
+      about software developement. During the first month, all who join will first
+      get familiar with HTML. Through HTML, you'll gain the knowledge on how to 
+      get started on making a webpage, such as this one you have visited. There are many things that you can
+      do in HTML such as upload images on your webpage, creating text to explain to viewers
+      what your page is about, and even decorate your webpage with varies colors for your webpage.
+      Not only that, but you can even expect to learn about CSS to make your webpage even more decorative!
+      The one thing I find the most interesting from joining Correlation One is the fact that there 
+      is always more to learn in this field. One of the reasons for that is because technology is forever changing and 
+      we must learn to adapt to what is to come to the software industry.
+    </p>
+</section>
+
+<section>
+  <h2>My Favorite Basketball Players</h2>
+
+ <main class="grid">
+
+    <div class="grid-item">
+      <h3>Michael Jordan</h3>
+      <img src="Mike_Jord.jpg" width=75% height=75% alt="">
+      <p>"MJ"</p>
+    </div>
+
+    <div class="grid-item">
+      <h3>Earvin "Magic" Johnson</h3>
+      <img src="Mag_John.jpg" width=75% height=75% alt="">
+      <p>"Magic"</p>
+    </div>
+
+    <div class="grid-item">
+      <h3>"Derrick Rose"</h3>
+      <img src="Derr_Rose.jpg" width=75% height=75% alt="">
+      <p>"D Rose"</p>
+    </div>
+
+    <div class="grid-item">
+      <h3>James Harden</h3>
+      <img src="Jam_Hard.jpeg" width=75% height=75% alt="">
+      <p>"The Beard"</p>
+    </div>
+
+    <div class="grid-item">
+      <h3>Luka Doncic</h3>
+      <img src="Luk_Don.jpg" width=75% height=75% alt="">
+      <p>"El Matador"</p>
+    </div>
+
+    <div class="grid-item">
+      <h3>Joel Embiid</h3>
+      <img src="Joe_Emb.jpg" width=75% height=75% alt="">
+      <p>"The Process"</p>
+    </div>
+</section>
+  </main>
+
+  <div class="nav-menu">
+    <a href="project_4/single-project_4.html">Main</a>
+    <a href="project_1/single-project_1.html">Project 1</a>
+    <a href="project_2/single-project_2.html">Project 2</a>
+    <a href="project_3/single-project_3.html">Project 3</a>
+  </div>
+
+<footer>
+  <section>
+    <h1>Join the Journey!</h1>
+      <center><form action="/example_action.html"><center>
+        <br>
+        <label for="fname">First Name: </label>
+        <input type="text" id="fname" name="fname"><br><br>
+
+        <label for="lname">Last Name: </label>
+        <input type="text" id="lname" name="lname"><br><br>
+
+        <label for="lname">E-Mail: </label>
+        <input type="text" id="lname" name="lname"><br><br>
+
+        <label for="sday">Start Date: </label>
+        <input type="date" id="sday" name="bday"><br><br>
+
+        <label for="code">Favorite code language: </label>
+        <select id="code" name="fcode"> 
+          <option > JavaScript </option>
+          <option> Python </option>
+          <option > C++ </option>
+          <option> PHP </option>
+        </select><br><br>
+        
+        <input type="submit" value="Submit">
+        <div>
+          <small class="text-light">&copy; Copyright 2023, Kaylum Walls</small>
+        </div>
+  </section>
+</footer>
+</body>
+</html>

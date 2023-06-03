@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="life of kaylum" content="something about me">
+    <title>Life of Kaylum </title>
+</head>
+  <body style="background-color:#F5F5DC"> 
+    <center><em><h1> Life of Kaylum</h1></em></center>
+      <h2 style="background-color:#DC143C;">Biography</h2>
+          
+            <h3><li><em>Introduction</em></li></h3>
+            <p>My name is Kaylum Walls. I was originally born in a country that is part of the United Kingdom called <a href="https://en.wikipedia.org/wiki/Wales">Wales</a>.
+            After a month I was born, my mother decided to move to <a href="https://www.chicago.gov/city/en.html">Chicago, Illinois</a> to be with my father for a new life as a family.
+            For the first 15 years of my life, I've moved to many parts of Chicago that hold many great places to visit such as:</p>
+            <ol>
+              <li><a href="https://navypier.org/">Navy Pier</a></li>
+              <img src="Navy Pier.webp">
+              <li><a href="https://www.chicago.gov/city/en/depts/dca/supp_info/millennium_park.html">Millennium Park</a></li>
+              <img src="Chicago Bean.webp">
+            </ol> 
+          
+    <h3><li><em>Present Day</em></li></h3>
+      <p>Once I turned 16, my family and I decided to move to <a href="https://www.tampa.gov/">Tampa, Florida</a>.
+      It took a while for me to get use to such a big change at first, but eventually I learned
+      to get more comfortable. Going through such a big change was a very different experiece for me. Especially how the humidity is in Florida. There 
+      are quite a few places that I grown to like with that being:</p>
+        <ul>
+          <li><a href="https://yborcityonline.com/">Ybor City</a></li>
+          <img src="Ybor City.webp">
+          <li><a href="https://www.flaquarium.org/">Florida Aquarium</a></li>
+          <img src="Florida Aquarium.jpg">
+        </ul>
+    <h3 style="background-color:#DC143C;"<em>Work and Achievements</em></h3>
+          </ul>
+            <p>Perfecting my basketball game and winning tournaments will forever feel like great achievements to me. 
+              I've been learning about basketball since I was just a 6 year old watching the <a href="https://www.nba.com/bulls">Chicago Bulls</a> play beautiful basketball to entertain fans such as myself.
+              Nearly everyday I work on my basketball skills to not only feel more improved, but feel accomplished for never giving up on something I love doing.
+              My goal one day is to have my own gym and to teach many people the skill of basketball.
+            </p>
+            
+       
+</body>
+</html>
