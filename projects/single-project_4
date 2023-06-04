@@ -14,7 +14,7 @@ href="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/030932d3-8fd0-44
     background-image: url(nice wall.webp);
     background-repeat:no-repeat;
     background-attachment: fixed;
-    background-size: 100% 100%;
+    background-size: 100% 100% ;
      }
   
   h1 {color: black;
